@@ -162,22 +162,10 @@ pip uninstall web3 eth-account
 pip install web3==6.15.0 eth-account==0.11.0
 ```
 
----
-
-## ☕ Support the Developers
-**EVM:** `0x3b94Ff1611773171E06047C0041099CccCFC609F`   
-
----
-
-## 🔒 Security & Disclaimer
-> ⚠️ **For Testnet Use Only**  
-> 🔥 Use burner wallets • 🔐 Never share private keys  
-> 🛡️ Review code • ⚖️ No developer liability  
-
----
-
 ## 🙌 Grow With Us
 ⭐ Star repo • 💬 Share with hunters • 💡 Suggest features  
-**Crafted with ❤️ by [CryptoDai3](https://t.me/cryptodai3) × [YetiDAO](https://t.me/YetiDAO)**  
+**Crafted ❤by [Crypto Softer] - https://t.me/DEXETHCalls**  
 **MIT Licensed • Free to use and modify**
 nd the social tip feature is highlighted as a key capability of the new bot.
+
+**Got any questions? Leave them in the Issues Tab on github!**
