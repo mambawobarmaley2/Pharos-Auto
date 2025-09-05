@@ -10,4 +10,6 @@ pip install fake-useragent==1.5.1
 pip install colorama==0.4.6
 pip install pytz==2024.1
 pip install requests==2.32.3
+pip install certifi
 pause
+
