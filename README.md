@@ -2,6 +2,7 @@
 
 A one-stop automation suite for the **Pharos Testnet** ecosystem. Run everything - **Pharos, Gotchipus, OpenFi, Brokex, Faroswap, and AquaFlux** - using just **one wallet, proxy, and config**.
 
+**FOR ANY QUESTIONS OR PARTNERSHIPS PLEASE DM ME ON TELEGRAM - @crptsftr**
 > 🔑 Unified Wallet | 🌍 Proxy Rotation | 🧩 Multi-Module Scripts | 📁 All-in-One Repo
 
 ---
