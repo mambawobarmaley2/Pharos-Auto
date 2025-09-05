@@ -9,3 +9,4 @@ fake-useragent==1.5.1
 colorama==0.4.6
 pytz==2024.1
 requests==2.32.3
+certifi
