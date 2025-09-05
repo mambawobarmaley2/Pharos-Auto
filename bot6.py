@@ -1,3 +1,6 @@
+import os, certifi
+os.environ["SSL_CERT_FILE"] = certifi.where()
+os.environ["REQUEST_CA_BUNDLE"] = certifi.where()
 from web3 import Web3
 from web3.exceptions import TransactionNotFound
 from eth_utils import to_hex
