@@ -82,18 +82,44 @@ socks5://127.0.0.1:1080
 5. **Run Bots**
 ```bash
 python bot1.py   # Pharos
+```
+```bash
 python bot2.py   # Gotchipus
+```
+```bash
 python bot3.py   # OpenFi
+```
+```bash
 python bot4.py   # Brokex
+```
+```bash
 python bot5.py   # Faroswap
+```
+```bash
 python bot6.py   # AquaFlux
+```
+```bash
 python bot7.py   # Zenith Swap
+```
+```bash
 python bot8.py   # Pharos Name Service
+```
+```bash
 python bot9.py   # Grandline
+```
+```bash
 python bot10.py  # R2 Pharos
+```
+```bash
 python bot11.py  # Bitverse
+```
+```bash
 python bot12.py  # AutoStaking
+```
+```bash
 python bot13.py  # Spout Finance
+```
+```bash
 python bot14.py  # Primuslabs Send
 ```
 
@@ -204,20 +230,3 @@ pip install web3==6.15.0 eth-account==0.11.0
 
 ---
 
-## ☕ Support the Developers
-**EVM:** `0x3b94Ff1611773171E06047C0041099CccCFC609F`   
-
----
-
-## 🔒 Security & Disclaimer
-> ⚠️ **For Testnet Use Only**  
-> 🔥 Use burner wallets • 🔐 Never share private keys  
-> 🛡️ Review code • ⚖️ No developer liability  
-
----
-
-## 🙌 Grow With Us
-⭐ Star repo • 💬 Share with hunters • 💡 Suggest features  
-**Crafted with ❤️ by [CryptoDai3](https://t.me/cryptodai3) × [YetiDAO](https://t.me/YetiDAO)**  
-**MIT Licensed • Free to use and modify**
-nd the social tip feature is highlighted as a key capability of the new bot.
